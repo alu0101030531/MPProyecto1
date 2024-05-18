@@ -1,4 +1,5 @@
 # Task 1 Multiplayer
+# El informe de la tarea 2 está en el pdf de lproyecto
 ## Implement an explosion effect that must be executed in all the proxies
 
 After a bullet collides with an object a multicast event is called to spawn a Niagara System at the bullet location.
